@@ -1,0 +1,14 @@
+Results from running 'python evalResult.py dev.out dev.prediction'. Navigate to 'EvalScript' directory before running
+
+#Entity in gold data: 3
+#Entity in prediction: 8
+
+#Correct Entity : 2
+Entity  precision: 0.2500
+Entity  recall: 0.6667
+Entity  F: 0.3636
+
+#Correct Sentiment : 1
+Sentiment  precision: 0.1250
+Sentiment  recall: 0.3333
+Sentiment  F: 0.1818
